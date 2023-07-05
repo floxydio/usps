@@ -1265,9 +1265,11 @@ packages:
   showcaseview:
     dependency: "direct main"
     description:
-      name: showcaseview
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: master
+      resolved-ref: "46d9f5a671eebc03534cc86d96dcd1646f76d50f"
+      url: "https://github.com/floxydio/showcase-nullsafety"
+    source: git
     version: "2.0.3"
   sign_in_with_apple:
     dependency: "direct main"

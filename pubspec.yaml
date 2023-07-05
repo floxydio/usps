@@ -81,7 +81,10 @@ dependencies:
   animated_text_kit: ^4.2.2
   loading_animation_widget: ^1.2.0+3
   sms_autofill: ^2.2.0
-  showcaseview: ^2.0.0+1
+  showcaseview:
+    git:
+      url: https://github.com/floxydio/showcase-nullsafety
+      ref: master
   qr_flutter: ^4.0.0
   font_awesome_flutter: ^10.3.0
 
